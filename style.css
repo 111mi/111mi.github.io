@@ -1,0 +1,42 @@
+
+
+
+body{
+	font-family: "ヒラギノ角ゴ Pro W3";
+	background-image: url('images/bg.png');
+
+}
+h1{
+	
+	font-style: aliceblue;
+}
+main {
+	margin-left: 20px;
+	margin-right: 20px;
+	color: aliceblue;
+	overflow: auto;
+	
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navbar ul{
+	list-style-type: none;
+	color:aliceblue;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+.navbar a{
+color: white;
+text-decoration : none; 
+padding: 10px;
+display: block;
+text-align: center;
+}
+.navbar li {
+	float: left;
+}
+
+.gallery{
+	display: inline-block;
+	margin: 5px;
+	}
